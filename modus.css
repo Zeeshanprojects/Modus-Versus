@@ -1,0 +1,224 @@
+.header {
+    background-color: lightseagreen;
+    height: 70px;
+    width: 100%;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.logo {
+    color: white;
+    font-size: 31px;
+}
+
+span {
+    color: white;
+    font-size: 24px;
+}
+
+nav ul li {
+    display: inline;
+    padding: 10px;
+}
+
+nav ul li a {
+    color: white;
+}
+
+nav ul li a:hover {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+.box1 {
+    background-image: url('file:///C:/Users/IC/Desktop/internship/images/building.jpg');
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.vest {
+    background-color: red;
+    color: white;
+    text-align: center;
+    width: 300px;
+    margin-left: 510px;
+    margin-top: 200px;
+    letter-spacing: 2px;
+}
+
+.dummy {
+    background-color: black;
+    height: auto;
+    color: white;
+    text-align: center;
+    width: 550px;
+    margin-left: 390px;
+}
+
+.box {
+    background-color: lightgray;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.btns {
+    background-color: red;
+    color: white;
+    text-align: center;
+    width: 130px;
+    height: 40px;
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.btns:hover {
+    background-color: orange;
+}
+
+.box2 {
+    background-color: whitesmoke;
+    height: 290px;
+    width: 100%;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.box3 {
+    background-color: whitesmoke;
+    height: 290px;
+    width: 100%;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.box4 {
+    background-color: whitesmoke;
+    height: 290px;
+    width: 100%;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.box5 {
+    background-color: whitesmoke;
+    height: 290px;
+    width: 100%;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.h6_title {
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+}
+
+.btn1 {
+    background-color: red;
+    color: white;
+    text-align: center;
+    width: 170px;
+    height: 50px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.btn1:hover {
+    background-color: orange;
+}
+
+.btn2 {
+    background-color: lightseagreen;
+    text-align: center;
+    color: white;
+    width: 170px;
+    height: 50px;
+    margin-left: 30px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.btn2:hover {
+    background-color: orange;
+}
+
+.h3_title {
+    color: orangered;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.box7 {
+    background-color: lightgray;
+    height: 220px;
+    width: 100%;
+}
+
+.box8 {
+    background-color: lightgray;
+    height: 220px;
+    width: 100%;
+}
+
+.box8:hover {
+    transform: scale(1.2);
+    z-index: 2;
+}
+
+.box9 {
+    background-color: lightgray;
+    height: 220px;
+    width: 100%;
+}
+
+.jQuery {
+    background-color: whitesmoke;
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 5px;
+}
+
+footer {
+    background-color: lightseagreen;
+    height: 290px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.endbox1 {
+    background-color: black;
+    height: 100px;
+    width: 50px;
+}
+
+.endbox2 {
+    background-color: black;
+    height: 100px;
+    width: 50px;
+}
